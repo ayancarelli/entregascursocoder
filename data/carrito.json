@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      
+      "products": [
+        {          
+          "nombre": "Producto3",
+          "descripcion": "descripcion3",
+          "codigo": 3,
+          "thumbnail": "url3",
+          "precio": 3,
+          "stock": 33,
+          "id": 3
+        },
+        {
+         "nombre": "Producto",
+          "descripcion": "descripcion2",
+          "codigo": 2,
+          "thumbnail": "url2",
+          "precio": 2,
+          "stock": 22,
+          "id": 2
+        },
+        {          
+          "nombre": "Producto3",
+          "descripcion": "descripcion3",
+          "codigo": 3,
+          "thumbnail": "url3",
+          "precio": 3,
+          "stock": 33,
+          "id": 3
+        }
+      ]
+    }
+]

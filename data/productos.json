@@ -1,0 +1,29 @@
+[
+    {
+      "nombre": "Producto1",
+      "descripcion": "descripcion1",
+      "codigo": 1,
+      "thumbnail": "url1",
+      "precio": 1,
+      "stock": 11,
+      "id": 1
+    },
+    {
+      "nombre": "Producto update",
+      "descripcion": "descripcion2",
+      "codigo": 2,
+      "thumbnail": "url2",
+      "precio": 2,
+      "stock": 22,
+      "id": 2
+    },
+    {
+      "nombre": "Producto3",
+      "descripcion": "descripcion3",
+      "codigo": 3,
+      "thumbnail": "url3",
+      "precio": 3,
+      "stock": 33,
+      "id": 3
+    }
+  ]
